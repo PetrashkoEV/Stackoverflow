@@ -1,0 +1,198 @@
+﻿.subheader {
+    width: 100%;
+    height: 100%;
+}
+
+div.subheader h1 {
+    font-size:130%;
+    margin:0;
+    padding:0;
+    border:0;
+    vertical-align:baseline;
+}
+
+div.tabs {
+    width: 50%;
+    height: 100%;
+    float: right;
+    color: red;
+    text-align: right;
+}
+
+.tabs a {
+    margin: 2px;
+    color: black;
+    text-decoration: none;
+}
+
+.tabs a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+.tabs a:hover {
+    border: 1px SOLID #aaabb6; /* Рамка вокруг ссылок */
+    padding: 3px 0 3px 3px;
+    color: black;
+    text-decoration: none;
+}
+
+div.question-summary {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    border-bottom:1px solid #eaeaea;padding:11px 0px;
+}
+
+.mainbar .titleAnswer {
+    padding-bottom: 20px;
+    border-bottom: 1px SOLID #aaabb6;
+}
+
+div.line {
+    border-bottom: 1px SOLID #aaabb6; 
+}
+
+div.statsarrow {
+    float:right;
+    height:13px;
+    width:7px;
+    margin-top:12px;
+    background-image: url(themes/base/images/arrow.png);
+}
+
+div.statscontainer {
+    width: 11%;
+    height: 100%;
+    float: left;
+    margin-right: 5px;
+}
+
+div.stats {
+    width:58px;
+    margin:0 0 0 9px;
+    padding:4px 7px 6px 7px;
+    
+    background: #eee;
+}
+
+div.vote {
+    width: 100%;
+    height: 50%;
+    text-align: center;
+    margin-bottom: 5px;
+    color:#555;
+}
+
+div.vote .vote-count-post {
+    width: 100%;
+    font-size: 150%;
+}
+
+div.viewcount {
+    width: 100%;
+    font-size: 100%;
+}
+
+div.status {
+    width: 100%;
+    height: 50%; 
+    text-align: center;
+
+    background: #75845C;
+}
+
+div.answered-accepted strong {
+    color:#E1E818;
+    font-size: 150%;
+}
+
+div.answered-accepted {
+    color:#E1E818;
+}
+
+div.answered {
+    color:#ffffff;
+}
+
+div.answered strong{
+    color:#ffffff;
+    font-size: 150%;
+}
+
+div.unanswered {
+    background: transparent;
+    color:#9A4444;
+}
+
+div.unanswered strong{
+    background: transparent;
+    color:#9A4444;
+    font-size: 150%;
+}
+
+div.summary {
+    width: 87%;
+    height: 100%;
+    float: left;
+    margin-left: 5px;
+    overflow:hidden;
+}
+
+.question-hyperlink a {
+    color: blue;
+    font-size: 150%; 
+    text-decoration: none;
+}
+
+.question-hyperlink a:hover {
+    color: blue;
+    font-size: 150%; 
+    text-decoration: underline;
+}
+
+.newAnswer {
+    width: 100%;
+    height: 100%;
+}
+
+div.bookmarks {
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 26px;
+    margin-left: 19px;
+    overflow: hidden;
+}
+
+div.tab {
+    width: 18px;
+    float: left;
+}
+
+div.visitedtab {
+    width: 18px;
+    float: left;
+}
+
+.tab A {
+        color: #1B1755;
+        text-decoration: none;
+    }
+
+.visitedtab A {
+        color: #1B1755;
+        text-decoration: underline;
+    }
+
+div.module {
+    width: 100%;
+    height: 100%;
+}
+
+
+code {
+
+    margin:0;padding:0;border:0;font-size:100%;vertical-align:baseline;background:transparent;margin-bottom: -15px;
+    font-family:Consolas, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;background-color:#eeeeee;
+}

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="StackoverflowModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="StackoverflowModelStoreContainer">
+    <EntitySet Name="Answer" EntityType="StackoverflowModel.Store.Answer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CommentaryAnswer" EntityType="StackoverflowModel.Store.CommentaryAnswer" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="CommentaryQuestion" EntityType="StackoverflowModel.Store.CommentaryQuestion" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Question" EntityType="StackoverflowModel.Store.Question" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="TemplateMessageEmail" EntityType="StackoverflowModel.Store.TemplateMessageEmail" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User" EntityType="StackoverflowModel.Store.User" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_Answer_Question" Association="StackoverflowModel.Store.FK_Answer_Question">
+      <End Role="Question" EntitySet="Question" />
+      <End Role="Answer" EntitySet="Answer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Answer_User" Association="StackoverflowModel.Store.FK_Answer_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Answer" EntitySet="Answer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Commentary_Questions" Association="StackoverflowModel.Store.FK_Commentary_Questions">
+      <End Role="Question" EntitySet="Question" />
+      <End Role="CommentaryQuestion" EntitySet="CommentaryQuestion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Commentary_User" Association="StackoverflowModel.Store.FK_Commentary_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="CommentaryQuestion" EntitySet="CommentaryQuestion" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CommentaryAnswer_Answer" Association="StackoverflowModel.Store.FK_CommentaryAnswer_Answer">
+      <End Role="Answer" EntitySet="Answer" />
+      <End Role="CommentaryAnswer" EntitySet="CommentaryAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CommentaryAnswer_User" Association="StackoverflowModel.Store.FK_CommentaryAnswer_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="CommentaryAnswer" EntitySet="CommentaryAnswer" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Questions_Users" Association="StackoverflowModel.Store.FK_Questions_Users">
+      <End Role="User" EntitySet="User" />
+      <End Role="Question" EntitySet="Question" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Answer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="bigint" Nullable="false" />
+    <Property Name="QuestionId" Type="bigint" Nullable="false" />
+    <Property Name="Usefulness" Type="int" Nullable="false" />
+    <Property Name="Body" Type="ntext" Nullable="false" />
+    <Property Name="PublicationDate" Type="datetime" Nullable="false" />
+    <Property Name="BestAnswer" Type="bit" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CommentaryAnswer">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="bigint" Nullable="false" />
+    <Property Name="AnswerId" Type="bigint" Nullable="false" />
+    <Property Name="Body" Type="ntext" Nullable="false" />
+    <Property Name="PublicationDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="CommentaryQuestion">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="bigint" Nullable="false" />
+    <Property Name="QuestionId" Type="bigint" Nullable="false" />
+    <Property Name="Body" Type="ntext" Nullable="false" />
+    <Property Name="PublicationDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Question">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="bigint" Nullable="false" />
+    <Property Name="Usefulness" Type="int" Nullable="false" />
+    <Property Name="Title" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Body" Type="ntext" Nullable="false" />
+    <Property Name="PublicationDate" Type="datetime" Nullable="false" />
+  </EntityType>
+  <EntityType Name="TemplateMessageEmail">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Subject" Type="nvarchar" Nullable="false" MaxLength="100" />
+    <Property Name="Body" Type="ntext" Nullable="false" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="bigint" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="Nickname" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Name" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="Surname" Type="nvarchar" Nullable="false" MaxLength="255" />
+    <Property Name="Sex" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="BirthDate" Type="datetime" Nullable="false" />
+    <Property Name="Mobile" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" Nullable="false" MaxLength="255" />
+  </EntityType>
+  <Association Name="FK_Answer_Question">
+    <End Role="Question" Type="StackoverflowModel.Store.Question" Multiplicity="1" />
+    <End Role="Answer" Type="StackoverflowModel.Store.Answer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Question">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Answer">
+        <PropertyRef Name="QuestionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Answer_User">
+    <End Role="User" Type="StackoverflowModel.Store.User" Multiplicity="1" />
+    <End Role="Answer" Type="StackoverflowModel.Store.Answer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Answer">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Commentary_Questions">
+    <End Role="Question" Type="StackoverflowModel.Store.Question" Multiplicity="1" />
+    <End Role="CommentaryQuestion" Type="StackoverflowModel.Store.CommentaryQuestion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Question">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CommentaryQuestion">
+        <PropertyRef Name="QuestionId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Commentary_User">
+    <End Role="User" Type="StackoverflowModel.Store.User" Multiplicity="1" />
+    <End Role="CommentaryQuestion" Type="StackoverflowModel.Store.CommentaryQuestion" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CommentaryQuestion">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CommentaryAnswer_Answer">
+    <End Role="Answer" Type="StackoverflowModel.Store.Answer" Multiplicity="1" />
+    <End Role="CommentaryAnswer" Type="StackoverflowModel.Store.CommentaryAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Answer">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CommentaryAnswer">
+        <PropertyRef Name="AnswerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CommentaryAnswer_User">
+    <End Role="User" Type="StackoverflowModel.Store.User" Multiplicity="1" />
+    <End Role="CommentaryAnswer" Type="StackoverflowModel.Store.CommentaryAnswer" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="CommentaryAnswer">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Questions_Users">
+    <End Role="User" Type="StackoverflowModel.Store.User" Multiplicity="1" />
+    <End Role="Question" Type="StackoverflowModel.Store.Question" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Question">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

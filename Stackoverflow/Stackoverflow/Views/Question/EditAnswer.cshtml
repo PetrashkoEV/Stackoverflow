@@ -1,0 +1,19 @@
+﻿@model Stackoverflow.Models.Questions.AnswerModel
+@Styles.Render("~/Content/question")
+@{
+    ViewBag.Title = "EditAnswer";
+}
+
+<h2>Edit Answer</h2>
+@using (Html.BeginForm())
+{
+    <div class="mainbar">
+        <div class="body">
+            Body:<br> @Html.TextAreaFor(model => model.Body)
+        </div>
+        <div class="form-submit">
+            <input type="submit" value="Edit" class="button black"/>
+            @Html.ActionLink("Back", "Index", "Problems")
+        </div>
+    </div>
+}

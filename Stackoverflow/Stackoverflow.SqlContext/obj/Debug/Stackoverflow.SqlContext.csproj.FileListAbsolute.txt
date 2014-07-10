@@ -1,0 +1,39 @@
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll.config
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\EntityFramework.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\EntityFramework.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll.config
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\bin\Debug\EntityFramework.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\bin\Debug\EntityFramework.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll.config
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\bin\Debug\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\bin\Debug\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.pdb
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll.config
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.pdb
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\EntityFramework.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\EntityFramework.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll.config
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\bin\Debug\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow.SqlContext\obj\Debug\Stackoverflow.SqlContext.pdb

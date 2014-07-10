@@ -1,0 +1,47 @@
+﻿@using System.Globalization
+@model Stackoverflow.Models.Questions.AnswerModel
+@Styles.Render("~/Content/question")
+@{
+    ViewBag.Title = "Delete Answer";
+}
+
+<div class="mainbar">
+    @using (Html.BeginForm())
+    {
+        <div calss="answers">
+            <h2>You really want to delete this answer? </h2>
+            <div class="problem">
+                <div class="vote">
+                    <div class="voteCount" id="Answer-@Model.Id">
+                        @Model.Usefulness
+                    </div>
+                </div>
+                <div class="problemContent">
+                    <div class="body">
+                        @Html.Raw(@Model.Body)
+                    </div>
+                    <div class="info">
+                        @Model.User.DisplayName responded in
+                        @Model.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+                    </div>
+                </div>
+            </div>
+            <div class="form-submit">
+                <input type="submit" name="Submit" value="Delete" class="button black"/>
+                @Html.ActionLink("Back", "Index", "Problems")
+            </div>
+        </div>
+    }
+</div>
+
+<div class="sidebar">
+    <div class="module">
+        <h4>Tags</h4>
+        <a href="/" class="post-tag">php</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">mysql</a> <span class="item-multiplier">x 3456</span> <br> 
+        <a href="/" class="post-tag">mobile</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">sms</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">css</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">javascript</a> <span class="item-multiplier">x 3456</span> <br>
+    </div>
+</div>

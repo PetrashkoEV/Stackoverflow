@@ -1,0 +1,610 @@
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Antlr3.Runtime.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\EntityFramework.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Spatial.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Http.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Optimization.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\WebGrease.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\EntityFramework.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Http.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\System.Spatial.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\de\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\es\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\fr\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\it\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ja\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ko\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\ru\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Antlr3.Runtime.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\EntityFramework.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Data.Edm.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Data.OData.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Newtonsoft.Json.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Net.Http.Formatting.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Spatial.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Helpers.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Http.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Http.OData.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Http.WebHost.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Mvc.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Optimization.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.WebPages.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\WebGrease.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\WebMatrix.Data.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\WebMatrix.WebData.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\EntityFramework.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Newtonsoft.Json.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Net.Http.Formatting.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Helpers.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Http.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Http.WebHost.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Mvc.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.WebPages.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\WebMatrix.Data.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\WebMatrix.WebData.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Web.Http.OData.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Data.Edm.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\Microsoft.Data.OData.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\System.Spatial.xml
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\de\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\es\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\fr\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\it\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ja\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ko\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\ru\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\obj\Debug\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\project\Stackoverflow - копия (5) - копия\Stackoverflow\obj\Debug\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Antlr3.Runtime.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Data.Edm.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Data.OData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Newtonsoft.Json.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Net.Http.Formatting.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Spatial.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Helpers.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Http.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Http.OData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Http.WebHost.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Mvc.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Optimization.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.WebPages.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\WebGrease.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\WebMatrix.Data.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\WebMatrix.WebData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Newtonsoft.Json.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Net.Http.Formatting.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Helpers.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Http.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Http.WebHost.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Mvc.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.WebPages.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\WebMatrix.Data.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\WebMatrix.WebData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Web.Http.OData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Data.Edm.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Microsoft.Data.OData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\System.Spatial.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\de\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\es\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\fr\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\it\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ja\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ko\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\ru\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\obj\Debug\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\obj\Debug\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new\Stackoverflow\bin\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Antlr3.Runtime.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Data.Edm.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Data.OData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Newtonsoft.Json.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Net.Http.Formatting.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Spatial.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Helpers.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Http.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Http.OData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Http.WebHost.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Mvc.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Optimization.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.WebPages.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\WebGrease.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\WebMatrix.Data.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\WebMatrix.WebData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Newtonsoft.Json.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Net.Http.Formatting.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Helpers.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Http.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Http.WebHost.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Mvc.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.WebPages.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\WebMatrix.Data.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\WebMatrix.WebData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Web.Http.OData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Data.Edm.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\Microsoft.Data.OData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\System.Spatial.xml
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\de\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\es\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\fr\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\it\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ja\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ko\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\ru\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\obj\Debug\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Stackoverflow new - копия (12) - копия\Stackoverflow\obj\Debug\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Antlr3.Runtime.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Spatial.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Optimization.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\WebGrease.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Spatial.xml
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\de\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\es\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\it\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.pdb
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.pdb
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Antlr3.Runtime.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\EntityFramework.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.SqlContext.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Spatial.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Optimization.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Razor.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebGrease.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.SqlContext.pdb
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\EntityFramework.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Razor.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Spatial.xml
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\de\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\es\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\it\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.dll
+C:\Users\Ridiculous_Genius\Desktop\Project Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Antlr3.Runtime.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Infrastructure.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Spatial.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Optimization.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebGrease.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Newtonsoft.Json.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Net.Http.Formatting.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Helpers.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.WebHost.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Mvc.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Deployment.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.WebPages.Razor.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.Data.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\WebMatrix.WebData.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.AspNet.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.Core.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OAuth.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Web.Http.OData.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.Edm.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Microsoft.Data.OData.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\System.Spatial.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\de\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\es\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\it\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\de\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\es\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\fr\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\it\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ja\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ko\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\ru\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hans\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\zh-Hant\System.Spatial.resources.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\obj\Debug\Stackoverflow.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\RazorEngine.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\RazorEngine.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\RazorEngine.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Itransition.SendingEmails.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Stackoverflow\bin\Itransition.SendingEmails.pdb

@@ -1,0 +1,21 @@
+﻿@model Stackoverflow.Models.Questions.QuestionModel
+
+@{
+    ViewBag.Title = "Edit Question";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="mainbar">
+               Title: @Html.TextBoxFor(model => model.Title)
+            <div class="problemContent">
+                <div class="body">
+                   Body:<br> @Html.TextAreaFor(model => model.Body)
+                </div>
+                <div class="form-submit">
+                    <input type="submit" name="Submit" value="Edit" class="button black"/>
+                    @Html.ActionLink("Back", "Index")
+                </div>
+            </div>
+        </div>
+}

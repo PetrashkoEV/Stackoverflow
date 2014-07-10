@@ -1,0 +1,20 @@
+﻿@model Stackoverflow.Models.Questions.QuestionModel
+
+@{
+    ViewBag.Title = "Ask Question";
+}
+
+@using (Html.BeginForm())
+{
+    <div class="mainbar">
+        Title: @Html.TextBoxFor(model => model.Title)
+        <div class="problemContent">
+            <div class="body">
+                Body:<br> @Html.TextAreaFor(model => model.Body)
+            </div>
+            <div class="form-submit">
+                <input type="submit" name="Create" value="Post Your Question" class="button black"/>
+            </div>
+        </div>
+    </div>
+}

@@ -1,0 +1,144 @@
+﻿@using System.Globalization
+@model Stackoverflow.Models.Questions.QuestionModel
+@Styles.Render("~/Content/question")
+@{
+    ViewBag.Title = "Question";
+}
+
+@Html.ActionLink(Model.Title, "Index", "Question", new {id = Model.Id}, new { @class = "title"})
+<div class="line"></div>
+
+<div class="mainbar">
+    <div class="problem">
+        <div class="vote">
+            <div class="voteUp" id="@Model.Id" title="Question"></div>
+            <div class="voteCount" id="Question-@Model.Id">
+                @Model.Usefulness
+            </div>
+            <div class="voteDown" id="@Model.Id" title="Question"></div>
+        </div>
+        <div class="problemContent">
+            <div class="body">
+                @Html.Raw(@Model.Body)
+            </div>
+
+             <a href="/" class="post-tag">sms</a>
+             <a href="/" class="post-tag">css</a>
+             <a href="/" class="post-tag">javascript</a>
+
+            <div class="info">
+                <a class = "redaction" id="@Model.Id" title="Question">Add</a> | 
+                @Model.User.DisplayName asked
+                @Model.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+            </div>
+
+            <div class="comments" id="Question-@Model.Id">
+                @foreach(var comment in Model.QuestionComments)
+                {
+                    <div class="comment">
+                        @Html.Raw(comment.Body)
+                        - @comment.User.DisplayName, commented in @comment.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+                    </div>
+                }
+            </div>
+            <div id="Question-@Model.Id" class="newComment">
+                <h3>Your Comment</h3>
+                @Html.TextAreaFor(item => item.Comment, new {id = "Question-" + Model.Id})
+                <input type="button" class="button black" id="@Model.Id" title="Question" value="Post your comment" />
+            </div>  
+        </div>
+    </div>
+    
+    @if (Model.Answers.Any())
+    {
+        <div class="titleAnswer">
+            @Model.Answers.Count() - Answers
+        </div>
+    }
+
+    <div class="answers">
+        @foreach(var answer in Model.Answers)
+        {
+            <div class="problem">
+                <div class="vote">
+                    <div class="voteUp" id="@answer.Id" title="Answer"></div>
+                    <div class="voteCount" id="Answer-@answer.Id">
+                        @answer.Usefulness
+                    </div>
+                    <div class="voteDown" id="@answer.Id" title="Answer"></div>
+                    @if (answer.BestAnswer)
+                    {
+                        <div class="best" id="@answer.Id"></div>   
+                    }
+                    else
+                    {
+                        <div class="selectionBest" id="@answer.Id"></div>
+                    }
+                </div>
+                <div class="problemContent">
+                    <div class="body">
+                        @Html.Raw(@answer.Body)
+                    </div>
+                    <div class="info">
+                        <a class = "redaction" id="@answer.Id" title="Answer">Add</a> |
+                        @Html.ActionLink("Edit", "EditAnswer", new {id = answer.Id}, new { @class = "redaction"}) |
+                        @Html.ActionLink("Delete", "DeleteAnswer", new {id = answer.Id}, new { @class = "redaction"}) |
+                        @answer.User.DisplayName responded in
+                        @answer.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+                    </div>
+                    <div class="comments" id="Answer-@answer.Id">
+                        @foreach (var comment in answer.Comments)
+                        {
+                            <div class="comment">
+                                @Html.Raw(@comment.Body)
+                                - @comment.User.DisplayName, commented in @comment.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+                            </div>
+                        }
+                    </div>
+                    <div id="Answer-@answer.Id" class="newComment">
+                        <h3>Your Comment</h3>
+                        @Html.TextAreaFor(item => item.Comment, new {id = "Answer-" + answer.Id})
+                        <input type="button" class="button black" id="@answer.Id" title="Answer" value="Post your comment"/>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+    
+    <div class="newAnswer">
+        <h3>Your Answer</h3>
+        @using (Html.BeginForm())
+        {
+            <div class="post-editor">
+                @Html.TextAreaFor(item => item.Answer, new {id = "Answer"})
+            </div>
+            <div class="form-submit">
+                <input type="submit" name="Submit" value="Post Your Answer" class="button black"/>
+            </div>
+        }
+    </div>
+</div>
+
+<div class="sidebar">
+    <div class="module">
+        <h4>Tags</h4>
+        <a href="/" class="post-tag">php</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">mysql</a> <span class="item-multiplier">x 3456</span> <br> 
+        <a href="/" class="post-tag">mobile</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">sms</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">css</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">javascript</a> <span class="item-multiplier">x 3456</span> <br>
+    </div>
+    <div class="related">
+        <h4>Related</h4>
+        <div class="relatedLink">
+            <a href="/Problems/">How to Autogenerate multiple getters/setters or accessors in Visual Studio</a>
+        </div>
+        <div class="relatedLink">
+            <a href="/Problems/">How to generate automatic properties (get, set) for Visual Studio 2008 C++</a>
+        </div>
+        <div class="relatedLink">
+            <a href="/Problems/">Code generator tool to generate a property and backing field</a>
+        </div>
+    </div>
+</div>

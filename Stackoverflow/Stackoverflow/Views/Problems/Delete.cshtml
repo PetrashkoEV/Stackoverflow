@@ -1,0 +1,58 @@
+﻿@using System.Globalization
+@model Stackoverflow.Models.Problems.QuestionSummaryModel
+
+@{
+    ViewBag.Title = "Delete Question";
+}
+
+@using (Html.BeginForm())
+{
+        <div class="mainbar">
+        <h2>You really want to delete this Question? </h2>
+        <div class="question-summary">
+            <div class="statscontainer">
+                <div class="statsarrow"></div> 
+                <div class="stats">
+                    <div class="vote">
+                        <div class="vote-count-post">@Model.Usefulness</div>
+                        <div class="viewcount">vote</div>
+                    </div>     
+                    @if (Model.AmountAnswer > 0)
+                    {
+                        if (Model.BestAnswer > 0)
+                        {
+                            <div class="status answered-accepted"><strong>@Model.AmountAnswer</strong> answer</div>
+                        }
+                        else
+                        {
+                            <div class="status answered"><strong>@Model.AmountAnswer</strong> answer</div>
+                        }
+                    }
+                    else
+                    {
+                        <div class="status unanswered"><strong>@Model.AmountAnswer</strong> answer</div>
+                    }
+                </div>
+            </div>
+            <div class="summary">
+                <div class="question-hyperlink">
+                    @Html.ActionLink(Model.Title, "Index", "Question", new {id = Model.Id}, null)
+                </div>
+                @Html.Raw(Model.Body)
+                <div class="tags">
+                    <a href="/" class="post-tag">sms</a>
+                    <a href="/" class="post-tag">css</a>
+                    <a href="/" class="post-tag">javascript</a>
+                    <div class="info">
+                        @Model.User.DisplayName asked
+                        @Model.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+                    </div>
+                </div>
+            </div>
+            <br>
+                <div class="form-submit">
+                    <input type="submit" name="Submit" value="Delete Question" class="button black"/>
+                </div>
+        </div>
+    </div>
+}

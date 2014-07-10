@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="3751bd4f740f43d6ac8de67def538764" Name="Diagram1" ZoomLevel="71">
+        <EntityTypeShape EntityType="StackoverflowModel.Answer" Width="1.5" PointX="11.625" PointY="8.375" />
+        <EntityTypeShape EntityType="StackoverflowModel.CommentaryAnswer" Width="1.5" PointX="11.625" PointY="12.875" />
+        <EntityTypeShape EntityType="StackoverflowModel.CommentaryQuestion" Width="1.5" PointX="6.375" PointY="12.75" />
+        <EntityTypeShape EntityType="StackoverflowModel.Question" Width="1.5" PointX="6.5" PointY="8.375" />
+        <EntityTypeShape EntityType="StackoverflowModel.TemplateMessageEmail" Width="1.5" PointX="14.5" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="StackoverflowModel.User" Width="1.5" PointX="9.25" PointY="8.375" />
+        <AssociationConnector Association="StackoverflowModel.FK_Answer_Question" />
+        <AssociationConnector Association="StackoverflowModel.FK_Answer_User" />
+        <AssociationConnector Association="StackoverflowModel.FK_CommentaryAnswer_Answer" />
+        <AssociationConnector Association="StackoverflowModel.FK_CommentaryAnswer_User" />
+        <AssociationConnector Association="StackoverflowModel.FK_Commentary_Questions" />
+        <AssociationConnector Association="StackoverflowModel.FK_Commentary_User" />
+        <AssociationConnector Association="StackoverflowModel.FK_Questions_Users" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

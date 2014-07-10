@@ -1,0 +1,202 @@
+﻿a.title {
+    width: 100%;
+    height: 100%;
+
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%; 
+    padding-top: 9px;
+    padding-bottom: 2px;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.title:hover {
+    color: black;
+    font-weight: 900;
+    text-decoration: underline;
+}
+
+.title a {
+    color: blue;
+    font-size: 80%; 
+    text-decoration: none;
+}
+
+.answers .problem, .mainbar .titleAnswer {
+    padding-bottom: 20px;
+    border-bottom: 1px SOLID #aaabb6;
+}
+
+div.line {
+    border-bottom: 2px SOLID #aaabb6; 
+}
+
+div.problem {
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+div.vote {
+    width: 5%;
+    height: 100%;
+    float: left;
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%; 
+    color: #aaabb6;
+}
+
+div.voteCount {
+    width: 28px;
+    height: 100%;
+     display:block; 
+    margin:0 auto;
+    color:#75845C;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.voteUp {
+    height: 14px;
+    width: 28px;
+
+    background-image: url(themes/base/images/voteUp.png);
+    display:block; 
+    margin:0 auto;
+
+    cursor: pointer;
+}
+
+.voteDown {
+    height: 14px;
+    width: 28px;
+
+    background-image: url(themes/base/images/voteDown.png);
+    display:block; 
+    margin:0 auto;
+
+    cursor: pointer;
+}
+
+.selectionBest {
+    cursor: pointer;
+    width: 31px;
+    height: 31px;
+    background: url(themes/base/images/selectionBest.png) no-repeat;
+    display:block; 
+    margin:0 auto;
+}
+
+.best {
+    cursor: pointer;
+    width: 31px;
+    height: 31px;
+    background: url(themes/base/images/best.png) no-repeat;
+    display:block; 
+    margin:0 auto;
+}
+
+div.problemContent {
+    width: 93%;
+    height: 100%;
+    float: left;
+    margin-left: 5px;
+}
+
+div.body {
+    width: 100%;
+    height: 100%;
+    overflow:  hidden;
+}
+
+div.comments {
+    width: 100%;
+    height: 100%;
+    margin-top: 20px;
+    font-size: 90%;
+    color: #505050;
+}
+
+div.comment {
+    width: 100%;
+    height: 100%;
+
+    border-top: 1px dashed #aaabb6;
+    border-bottom: 1px dashed #aaabb6;
+
+    padding: 5px;
+}
+
+div.comment:hover {
+    background-color: #ebebeb;
+}
+
+div.answers {
+    width: 100%;
+    height: 100%;
+}
+
+div.titleAnswer {
+    width: 100%;
+    height: 100%;
+
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 150%; 
+    padding-top: 9px;
+    padding-bottom: 2px;
+}
+
+.related {
+    width: 100%;
+    height: 100%;
+}
+
+.relatedLink {
+    width: 100%;
+    height: 100%;
+    margin-bottom: 10px;
+}
+
+.relatedLink A {
+    text-decoration: none; 
+    color: #8b00ff;
+   }
+
+.relatedLink A:hover {
+    text-decoration: underline; 
+   }
+
+.newAnswer {
+    width: 100%;
+    height: 100%;
+}
+
+.newComment {
+    width: 100%;
+    height: 100%;
+    display: none;
+}
+
+.post-editor {
+    width: 100%;
+    height: 100%;
+}
+
+.form-submit {
+   width: 100%;
+   height: 100%; 
+}
+
+div.bookmarks {
+    height: 100%;
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 26px;
+    margin-left: 19px;
+    overflow: hidden;
+}

@@ -1,0 +1,46 @@
+﻿div.container {
+    width: 1000px;
+    margin: 0 auto;
+    overflow: auto;
+}
+
+div.sidebar {
+    width: 18%;
+    height: 100%;
+    float: right;
+}
+
+div.mainbar {
+    width: 80%;
+    height: 100%;
+    float: left;
+    padding-right: 20px;
+}
+
+div.info {
+    width: 50%;
+    height: 100%;
+    float: right;
+
+    font-size: 80%; 
+    color: #505050;
+    text-align: right;
+}
+
+div.tags {
+    width: 100%;
+    height: 100%;
+    float: right;
+}
+
+.module h4 {
+    font-size:130%;
+    margin:0;
+    padding:0;
+    border:0;
+    vertical-align:baseline;
+}
+
+.h4 {
+    font-size:130%;
+}

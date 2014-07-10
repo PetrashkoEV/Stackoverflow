@@ -1,0 +1,14 @@
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\obj\Debug\Itransition.SendingEmails.csprojResolveAssemblyReference.cache
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\Itransition.SendingEmails.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\Itransition.SendingEmails.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\EntityFramework.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\RazorEngine.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\Stackoverflow.SqlContext.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\System.Web.Razor.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\Stackoverflow.SqlContext.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\EntityFramework.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\RazorEngine.pdb
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\RazorEngine.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\bin\Debug\System.Web.Razor.xml
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\obj\Debug\Itransition.SendingEmails.dll
+E:\Project itransition\Stackoverflow\Project Stackoverflow\Stackoverflow\Itransition.SendingEmails\obj\Debug\Itransition.SendingEmails.pdb

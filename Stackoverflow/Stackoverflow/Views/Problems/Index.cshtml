@@ -1,0 +1,110 @@
+﻿@using System.Globalization
+@using System.Text.RegularExpressions
+@model Stackoverflow.Models.Problems.ProblemsModel
+@{
+    ViewBag.Title = "Question";
+}
+
+@helper Truncate(string input, int length)
+{
+    string inputstring = Regex.Replace(input, @"<[^>]*>", String.Empty);
+
+    if (inputstring.Length <= length)
+    {
+        @inputstring
+    } else {
+        @inputstring.Substring(0, length)<text>...</text>
+    }
+}
+
+
+<div class="mainbar">
+    <br>
+    <div class="subheader">
+        <div class="tabs">
+            @Html.ActionLink("All Question", "Index", new {page=1})
+        </div>
+        <h1>Tagged Questions</h1>
+    </div>
+    <div class="line"></div>
+    @foreach(var item in Model.Questions)
+    {
+        <div class="question-summary">
+            <div class="statscontainer">
+                <div class="statsarrow"></div> 
+                <div class="stats">
+                    <div class="vote">
+                        <div class="vote-count-post">@item.Usefulness</div>
+                        <div class="viewcount">vote</div>
+                    </div>     
+                    @if (item.AmountAnswer>0)
+                    {
+                        if (item.BestAnswer > 0)
+                        {
+                            <div class="status answered-accepted"><strong>@item.AmountAnswer</strong> answer</div>
+                        }
+                        else
+                        {
+                            <div class="status answered"><strong>@item.AmountAnswer</strong> answer</div>
+                        }
+                    }
+                    else
+                    {
+                        <div class="status unanswered"><strong>@item.AmountAnswer</strong> answer</div>
+                    }
+                </div>
+            </div>
+            <div class="summary">
+                <div class="question-hyperlink">
+                    @Html.ActionLink(item.Title, "Index", "Question", new {id = item.Id}, null)
+                </div>
+                @Truncate(item.Body, 210)
+                <div class="tags">
+                    <a href="/" class="post-tag">sms</a>
+                    <a href="/" class="post-tag">css</a>
+                    <a href="/" class="post-tag">javascript</a>
+
+                    <div class="info">
+                        @Html.ActionLink("Edit", "Edit", new {id = item.Id}, new { @class = "redaction"}) |
+                        @Html.ActionLink("Delete", "Delete", new {id = item.Id}, new { @class = "redaction"})
+                        @item.User.DisplayName asked
+                        @item.PublicationDate.ToString("d MMMM yyy 'at' H:mm", CultureInfo.CreateSpecificCulture("en-US"))
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="line"></div>
+    }
+    <div class="bookmarks">
+        @for (int i = 1; i <= Model.CountPages; i++)
+        {
+            if (i == Model.VisitedPage)
+            {
+                <div class="visitedtab">
+                    @Html.ActionLink(i.ToString(), "Index", new { page = i})
+                </div>
+            }
+            else
+            {
+                <div class="tab">
+                    @Html.ActionLink(i.ToString(), "Index", new { page = i })
+                </div>
+            }
+        
+        }
+    </div>
+</div>
+
+<div class="sidebar">
+    <div class="module">
+        <h4>Related Tags</h4>
+        <a href="/" class="post-tag">php</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">mysql</a> <span class="item-multiplier">x 3456</span> <br> 
+        <a href="/" class="post-tag">mobile</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">sms</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">css</a> <span class="item-multiplier">x 3456</span> <br>
+        <a href="/" class="post-tag">javascript</a> <span class="item-multiplier">x 3456</span> <br>
+    </div>
+</div>
+
